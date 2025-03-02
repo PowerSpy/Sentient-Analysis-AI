@@ -59,11 +59,11 @@ After running `test_model.py`, you will be able to input any text and receive a 
 
 ```bash
 python test_model.py
-Enter text to predict sentiment: I really enjoyed the movie, it was amazing!
-Prediction: Positive
+Try the sentience analysis bot: I really enjoyed the movie, it was amazing!
+Positive 0.67
 
-Enter text to predict sentiment: This was the worst film I've ever seen.
-Prediction: Negative
+Try the sentience analysis bot: This was the worst film I've ever seen.
+Negative 0.465
 ```
 
 ### Saving and Loading the Model
