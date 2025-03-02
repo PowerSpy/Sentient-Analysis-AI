@@ -36,4 +36,4 @@ def predict_sentiment(text):
     return f"Positive {prediction}" if prediction > 0.5 else f"Negative {prediction}"
 
 while True:
-    print(predict_sentiment(input("Try the sentient bot: ")))
+    print(predict_sentiment(input("Try the sentience bot: ")))
